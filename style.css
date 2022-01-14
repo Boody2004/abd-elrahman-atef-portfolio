@@ -44,7 +44,6 @@ p {
 .section-title span {
   color: crimson;
 }
-
 .cta {
   display: inline-block;
   padding: 10px 30px;
@@ -514,22 +513,12 @@ p {
   background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 }
 #footer .footer {
-  min-height: 200px;
-  flex-direction: column;
-  padding-top: 50px;
-  padding-bottom: 10px;
-}
-#footer h2 {
-  color: white;
-  font-weight: 500;
-  font-size: 1.8rem;
-  letter-spacing: 0.1rem;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  min-height: 100px;
+  flex-wrap: wrap;
 }
 #footer .social-icon {
   display: flex;
-  margin-bottom: 30px;
+  margin: 20px;
 }
 #footer .social-item {
   height: 50px;
@@ -545,7 +534,8 @@ p {
 }
 #footer p {
   color: white;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
+  margin: 20px;
 }
 /* End Footer */
 
