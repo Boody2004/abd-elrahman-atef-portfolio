@@ -11,4 +11,4 @@
 
 ![Design preview for the Profile card component coding challenge](./img/desktop-preview.jpg)
 ![Design preview for the Profile card component coding challenge](./img/desktop-preview2.jpg)
-![Design preview for the Profile card component coding challenge](./img/portfolio-all.jpg.jpg)
+![Design preview for the Profile card component coding challenge](https://res.cloudinary.com/dirbnpgsp/image/upload/v1642199063/portfolio_qjhy3l.png)
